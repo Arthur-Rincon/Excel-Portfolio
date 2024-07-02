@@ -6,7 +6,7 @@ Excel, Dashboards, Pivot Tables, Pivot Charts
 
 ## About this project
 
-## The Coffee Sales Dashboard covers:
+### The Coffee Sales Dashboard covers:
 
 - Order date selector.
 - Roast type selector.
